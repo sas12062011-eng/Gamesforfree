@@ -1,0 +1,15 @@
+a{
+    color: inherit;
+}
+
+#games{
+    color: red;
+}
+
+html{
+    background-color: black;
+}
+header{
+    font-size: larger;
+    color: white;
+}

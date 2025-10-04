@@ -1,0 +1,9 @@
+html {
+    background-color: black;
+    color: inherit;
+}
+
+/* To style a specific element, use a class or id. Example: */
+/* #drivemad { background-color: green; } */
+
+/* Removed invalid selector and orphaned 'inherit' */
